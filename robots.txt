@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hindustan-auto-enterprises.vercel.app/sitemap.xml
